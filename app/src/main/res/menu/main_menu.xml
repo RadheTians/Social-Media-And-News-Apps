@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all_post_show"
+        android:title="ALL Users Post" />
+    <item
+        android:id="@+id/new_post_find"
+        android:title="Popular News" />
+    <item
+        android:id="@+id/diplay_users"
+        android:title="Find Friends" />
+    <item
+        android:id="@+id/display_name"
+        android:title="Account Setting" />
+    <item
+        android:id="@+id/userLogout"
+        android:title="Logout" />
+
+</menu>
